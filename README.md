@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi, I'm Mit
 
-<!--
-**weblymit/weblymit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Fullstack Developer with expertise in **React**, **Laravel**, and **Node.js**. With several years of experience in web development, I have honed my skills in creating high-performance and intuitive web applications.
 
-Here are some ideas to get you started:
+#### Technical Skills
+- **Frontend**: React, HTML5, CSS3, JavaScript (ES6+)
+- **Backend**: Node.js, Laravel, Express.js
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools and Methodologies**: Git, Docker, RESTful APIs, GraphQL, Agile/Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Professional Journey
+I am always seeking new technical challenges and opportunities to enhance my skills. I enjoy working on innovative projects that push the boundaries of technology and provide efficient and robust solutions.
+
+#### Notable Projects
+- **Task Management Application**: A web application developed with React and Node.js for team task and project management.
+- **E-commerce Platform**: Built with Laravel and Vue.js, this platform allows comprehensive management of products, orders, and online payments.
+- **RESTful API**: Designed with Node.js and Express, this API provides user management and authentication services for a mobile application.
+
+#### Goals
+My goal is to continue exploring new technologies and refining my Fullstack development skills. I am also interested in contributing to open source projects and collaborating with other passionate developers.
+
+---
+
+Feel free to contact me to discuss potential projects or collaborations.
