@@ -3,7 +3,7 @@
 I am a passionate Fullstack Developer with expertise in **React**, **Laravel**, and **Node.js**. With several years of experience in web development, I have honed my skills in creating high-performance and intuitive web applications.
 
 #### Technical Skills
--🌶️ **Frontend**: React, HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: React, HTML5, CSS3, JavaScript (ES6+)
 - **Backend**: Laravel, Node.js, Express.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools and Methodologies**: Git, RESTful APIs, Agile/Scrum
